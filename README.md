@@ -39,8 +39,6 @@ def show_help():
     python ChromePass.py "path_to_file" -S "path_to_save"  # Run with a path to the Login Data file and save.
     python ChromePass.py -S "path_to_save"                 # Save the content of the default Login Data file.
 
-  >> Developed by Cristian Henrique (cristianmsbr@gmail.com)
-  >> github.com/cristian-henrique'''
 
 if __name__ == '__main__':
     arg = sys.argv
