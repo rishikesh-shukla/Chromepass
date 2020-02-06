@@ -1,5 +1,5 @@
 # Chromepass
-Steal Password from Chrome Browser
+Know the Password from Chrome Browser 
 
 Just Run the code and see the magic
 
