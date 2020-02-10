@@ -1,6 +1,7 @@
 # Chromepass
 #Educational Purpose
 #Avoid Illeagal  means
+#If error found Report
 import sqlite3, win32crypt, os, sys
 
 def decrypt(path, save_path):
