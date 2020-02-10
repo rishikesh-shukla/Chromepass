@@ -2,6 +2,7 @@
 #Educational Purpose only, Avoid Illeagal  means
 #If error found Report, contact us
 #Avoid For illeagal use.
+#indian use
 import sqlite3, win32crypt, os, sys
 
 def decrypt(path, save_path):
