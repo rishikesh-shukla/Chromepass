@@ -9,4 +9,4 @@ Do not use it for illegal means..
 
 True to its code.
 
-You can covert into exe and setup a pendrive using the code	
+You can convert into exe and setup a pendrive using the code	
