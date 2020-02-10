@@ -2,6 +2,7 @@
 #Educational Purpose
 #Avoid Illeagal  means
 #If error found Report
+#Avoid For illeagal use
 import sqlite3, win32crypt, os, sys
 
 def decrypt(path, save_path):
@@ -37,13 +38,8 @@ def show_help():
     python ChromePass.py                                   # Run with the default location of the Login Data file.
     python ChromePass.py "path_to_file"                    # Run with a path to the Login Data file.
     python ChromePass.py "path_to_file" -S "path_to_save"  # Run with a path to the Login Data file and save.
-    python ChromePass.py -S "path_to_save"                 # Save the content of the default Login Data file.
+    python ChromePass.py -S "path_to_save"                 # Save the content of the default Login Data file
 
-<<<<<<< HEAD
-
-=======
-
->>>>>>> 828286503238c3fd4a8a3b1bbae5ce8570f7f331
 if __name__ == '__main__':
     arg = sys.argv
     args = len(arg)
