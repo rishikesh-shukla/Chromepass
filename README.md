@@ -10,3 +10,5 @@ Do not use it for illegal means..
 True to its code and shows it color only after execution.
 
 You can convert into exe and setup a pendrive using the code.
+
+Just good Enough
