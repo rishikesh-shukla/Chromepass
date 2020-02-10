@@ -1,5 +1,5 @@
 # Chromepass
-
+#Educational Purpose
 
 import sqlite3, win32crypt, os, sys
 
