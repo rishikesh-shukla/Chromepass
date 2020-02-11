@@ -7,7 +7,7 @@ It is just for educational purpose.
 
 Do not use it for illegal means..
 
-True to its code and shows it color only after execution.
+True to its code.
 
 You can convert into exe and setup a pendrive using the code.
 
