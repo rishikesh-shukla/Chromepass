@@ -3,7 +3,7 @@
 <<<<<<< HEAD
 #If error found Report, contact us
 #Avoid For illeagal use.
-#indian use
+#anyone can use
 =======
 #If error found Report, contact us Avoid For illeagal use
 >>>>>>> tf
